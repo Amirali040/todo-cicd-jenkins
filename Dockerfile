@@ -1,5 +1,5 @@
 # Node Base Image
-FROM node: 20-alpine
+FROM node: 18-alpine
 
 #Working Directry
 WORKDIR /node
