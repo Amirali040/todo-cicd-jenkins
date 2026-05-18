@@ -66,13 +66,13 @@ A Django Todo application deployed using Jenkins CI/CD pipeline, Docker, DockerH
 
 ## Todo Application Running
 
-![Todo App](images/Web page.jpg)
+![Todo App](images/Web-page.jpg)
 
 ---
 
 ## Jenkins Pipeline Stage View
 
-![Jenkins Pipeline](images/Pipeline stage view.jpg)
+![Jenkins Pipeline](images/Pipeline-stage-view.jpg)
 
 ---
 
@@ -84,10 +84,10 @@ A Django Todo application deployed using Jenkins CI/CD pipeline, Docker, DockerH
 
 ## Jenkins Plugins Installation
 
-![Plugins](images/credentials setup.jpg)
+![Plugins](images/credentials-setup.jpg)
 
 ---
 
 ## Jenkins Logs Output
 
-![Console Output](images/Pipeline logs output.jpg)
+![Console Output](images/Pipeline-logs-output.jpg)
