@@ -40,10 +40,15 @@ A Django Todo application deployed using Jenkins CI/CD pipeline, Docker, DockerH
 # Features
 
 ✅ Jenkins Pipeline Automation
+
 ✅ Docker Image Build
+
 ✅ Push Docker Image to DockerHub
+
 ✅ Docker Compose Deployment
+
 ✅ Automatic Container Run on Port 8000
+
 ✅ CI/CD Workflow
 
 ---
