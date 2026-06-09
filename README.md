@@ -13,9 +13,7 @@ Run these commands:
 
 `node app.js`
 
-or Run by docker compose
-
-test
+or Run by docker compose test
 
 
 # Todo CICD Jenkins Project
